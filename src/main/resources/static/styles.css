@@ -1,0 +1,13 @@
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    color:blue;
+    text-align:center;
+}
+
+td{
+    width: 300px;
+}
